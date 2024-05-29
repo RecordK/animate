@@ -10,3 +10,4 @@ j_data/
 *.pkl
 *.bin
 .idea
+.idea/

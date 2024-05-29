@@ -1,0 +1,11 @@
+__pycache__/
+pretrained_weights/
+output/
+.venv/
+mlruns/
+data/
+j_data/
+*.pth
+*.pt
+*.pkl
+*.bin

@@ -9,3 +9,4 @@ j_data/
 *.pt
 *.pkl
 *.bin
+.idea
